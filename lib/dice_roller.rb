@@ -4,5 +4,5 @@ require_relative "dice_roller/version"
 
 module DiceRoller
   class Error < StandardError; end
-  # Your code goes here...
+  puts 1
 end
